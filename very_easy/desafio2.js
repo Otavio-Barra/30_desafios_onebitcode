@@ -3,4 +3,5 @@ function recursive(num) {
   return num === 1 ? "chuck" : "chuck-" + recursive(num - 1);
 }
 
-console.log(recursive(100)); // chuck-nor
+console.log(recursive(10));
+//output: chuck-chuck-chuck-chuck-chuck-chuck-chuck-chuck-chuck-chuck

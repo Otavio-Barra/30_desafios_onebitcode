@@ -5,3 +5,10 @@ function maiorLetra(string) {
 }
 
 console.log(maiorLetra("lorem ipsum dolore sec avanti"));
+// output: v
+
+console.log(maiorLetra("Hello"));
+//  output: o
+
+console.log(maiorLetra("May the force be with you"));
+// output: y

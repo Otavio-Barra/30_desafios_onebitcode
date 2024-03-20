@@ -8,3 +8,4 @@ function mediaAlunos(array) {
 const array = [10, 9, 6, 8, 9, 1, 5, 7];
 
 console.log(mediaAlunos(array));
+//output: 6.875
